@@ -1,6 +1,11 @@
 # entornos
+
 tpe
 .venv
+
+# reportes
+
+reporte_vinos.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
