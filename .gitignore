@@ -6,6 +6,9 @@ tpe
 # reportes
 
 reporte_vinos1.html
+reporte_vinos2.html
+reporte_duplicados.html
+reporte_sin_duplicados.html
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
