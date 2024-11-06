@@ -47,6 +47,7 @@ pure_eval==0.2.3
 pydantic==2.9.0
 pydantic_core==2.23.2
 Pygments==2.18.0
+pynndescent==0.5.13
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
 pytz==2024.1
@@ -58,6 +59,7 @@ requests==2.32.3
 scikit-learn==1.5.2
 scipy==1.13.1
 seaborn==0.13.2
+setuptools==75.3.0
 six==1.16.0
 stack-data==0.6.3
 statsmodels==0.14.2
@@ -68,6 +70,7 @@ traitlets==5.14.3
 typeguard==4.3.0
 typing_extensions==4.12.2
 tzdata==2024.1
+umap-learn==0.5.7
 urllib3==2.2.2
 visions==0.7.6
 wcwidth==0.2.13
